@@ -3,13 +3,15 @@
 <img align="right" alt="Coding" width="400" src="https://media.gettyimages.com/id/1394126901/vector/smiling-young-woman-using-computer.jpg?s=612x612&w=0&k=20&c=WgfKfMmFlffRjI-fV-bBPtbgKvhUvoGfD7GmWRMkUlU=">
 
 
-- 🌱 I’m currently learning **Data structure in C/C++.**
+- 🌱 I’m currently learning **Data structure and Algorithm **
 
 - 💬 Ask me about **Java,python**
 
 - 📫 How to reach me **salunkhepoonam274@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+- 😄 Pronouns: **She/Her**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
