@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://media.gettyimages.com/id/1394126901/vector/smiling-young-woman-using-computer.jpg?s=612x612&w=0&k=20&c=WgfKfMmFlffRjI-fV-bBPtbgKvhUvoGfD7GmWRMkUlU=">
 
 
-- 🌱 I’m currently learning **Data structure and Algorithm **
+- 🌱 I’m currently learning: **Data structure and Algorithm **
 
-- 💬 Ask me about **Java,python**
+- 💬 Ask me about: **Java,python**
 
-- 📫 How to reach me **salunkhepoonam274@gmail.com**
+- 📫 How to reach me :**salunkhepoonam274@gmail.com**
 
-- ⚡ Fun fact **I love books and Chocalates😍**
+- ⚡ Fun fact :**I love books and Chocalates😍**
 
 - 😄 Pronouns: **She/Her**
 
