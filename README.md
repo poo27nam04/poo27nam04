@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **salunkhepoonam274@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I love books and Chocalates😍**
 
 - 😄 Pronouns: **She/Her**
 
